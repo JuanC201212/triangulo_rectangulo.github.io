@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url(https://media.istockphoto.com/photos/math-and-geometry-concept-picture-id1140819116?s=612x612);
+    background-size: cover; 
+}
+footer{
+    background-color: #8F141B;
+
+}
+h1,h2,h3{color: white;}
